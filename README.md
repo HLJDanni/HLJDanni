@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Data Analysis in Coursera!!
 - 💞️ I’m looking to collaborate on proyects with Pyhton
 
+I'm study in Mariano Gálvez University, Systems Engineering and i like so much DataBase and programation 
 
 <!---
 HLJDanni/HLJDanni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
