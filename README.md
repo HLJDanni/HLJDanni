@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">Fourth-year Systems Engineering student with a deep passion for technology and the power of data. I'm passionate about transforming complex information into clear solutions through data analysis and dedicated to software development with a focus on structure and efficiency. I'm firmly committed to continuous learning and contributing to the advancement of information technology.<br><br>- 🔭 I’m working as Data Analyst in Bimbo Guatemala<br>- 📚 I'm currently learning Power BI in "DataCamp" and looking a new way for learn Python and integrate in my dashboards</p>
+<p align="left">Fourth-year Systems Engineering student with a deep passion for technology and the power of data. I'm passionate about transforming complex information into clear solutions through data analysis and dedicated to software development with a focus on structure and efficiency. I'm firmly committed to continuous learning and contributing to the advancement of information technology.<br><br>- 🔭 I’m working as Data Analyst in Bimbo Guatemala<br>- 📚 I'm currently learning Power BI at DataCamp and looking for a new way to learn Python and integrate it into my dashboards.</p>
 
 ###
 
